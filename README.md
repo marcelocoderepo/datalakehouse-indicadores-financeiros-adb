@@ -1,4 +1,4 @@
-# Databricks Finance Lab — Radar de Saúde Financeira
+# Data Lakehouse de Indicadores Financeiros no Databricks — Radar de Saúde Financeira
 
 Caso de uso ponta a ponta no Databricks com **dados financeiros reais e públicos**: as
 demonstrações financeiras de todas as companhias abertas brasileiras (CVM) cruzadas com
@@ -79,9 +79,12 @@ tudo versionado como **Databricks Asset Bundle**.
 
 ## Instalação passo a passo
 
-**1. Entrar na pasta do lab**
+**1. Clonar o repositório**
 ```bash
-cd databricks-finance-lab
+git clone https://github.com/marcelocoderepo/datalakehouse-indicadores-financeiros-adb.git
+```
+```bash
+cd datalakehouse-indicadores-financeiros-adb
 ```
 
 **2. Validar e fazer o deploy do bundle** (cria schemas, volume, pipeline, job e dashboard)

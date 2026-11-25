@@ -47,7 +47,7 @@ SERIES_BCB = {
     1: ("dolar_ptax_venda", "R$/US$", "diaria"),
 }
 
-USER_AGENT = "databricks-finance-lab/1.0 (estudo de engenharia de dados)"
+USER_AGENT = "datalakehouse-indicadores-financeiros-adb/1.0 (estudo de engenharia de dados)"
 
 
 def _get(url: str, tentativas: int = 4, timeout: int = 120) -> bytes:
