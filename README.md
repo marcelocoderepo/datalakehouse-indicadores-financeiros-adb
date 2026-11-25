@@ -1,4 +1,4 @@
-# Data Lakehouse de Indicadores Financeiros no Databricks — Radar de Saúde Financeira
+# Indicadores Financeiros — Radar Financeiro
 
 Caso de uso ponta a ponta no Databricks com **dados financeiros reais e públicos**: as
 demonstrações financeiras de todas as companhias abertas brasileiras (CVM) cruzadas com
