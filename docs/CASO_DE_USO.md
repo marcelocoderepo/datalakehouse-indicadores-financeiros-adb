@@ -1,4 +1,4 @@
-# Caso de uso — Radar de Saúde Financeira das Companhias Abertas
+# Caso de uso — Radar Financeira das Companhias Abertas
 
 ## 1. O problema de negócio
 
